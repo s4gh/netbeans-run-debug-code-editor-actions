@@ -1,5 +1,5 @@
 # Overview
-Netbeans IDE plugin wih actions to open active code editor file in project and files views.
+Netbeans IDE plugin wih actions to run and debug currnt file in code editor toolbar.
 
 # Screenshots
-![NetBeans Quick Action Icons](images/netbeans-sync-tree-with-editor.png)
+![NetBeans Run and Debug Files Icons](images/nb-run-file-editor-toolba)
